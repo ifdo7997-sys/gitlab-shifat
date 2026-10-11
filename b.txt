@@ -1,0 +1,1 @@
+the staging area lets you choose exactly what goes into a commit,instead off commiting everything you changed
